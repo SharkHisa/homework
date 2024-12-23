@@ -1,0 +1,32 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/my_image.jpg"
+  links:
+    - icon: twitter
+      text: Twitter
+      href: This is baijinyue's GitHub
+    - icon: github
+      text: Github
+      href: This is baijinyue's GitHub
+    - icon: linkedin
+      text: LinkedIn
+      href: This is baijinyue's GitHub
+    - icon: envelope
+      text: Email
+      href: This is baijinyue's GitHub
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="" role="button" target="_blank" style="padding: 15px 30px;">baijinyuebaijinyuebaijinyue</a>
+</div>
+```
+
