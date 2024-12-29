@@ -1,0 +1,25 @@
+---
+about:
+  template: jolla
+  id: Shi Shuting
+  image: "img/profile.png"
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/SharkHisa/homework
+    - icon: envelope
+      text: Email
+      href: "mailto:mail.backsaberxxx@qq.com"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome to Shi Shuting's website!
+
+Name: Shi Shuting\n
+
+Student ID: EM24B--028\n
+
+Thank you to my computer, my struggling keyboard, and my gradually closing eyes for helping me complete my blog.
+```{=html}
